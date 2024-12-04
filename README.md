@@ -1,22 +1,57 @@
 
-# project - Weather website
-This is a simple website interface created using HTML, CSS and JAVASCRIPT.
-## Documentation
+### 🌦️ Meteo App
+A simple, elegant weather application that provides current weather details and a 5-day forecast for any city worldwide.
 
-[Documentation](https://1drv.ms/w/c/f136ca00c1f5c5a4/EQB5Cn9l8tdGihIx9EVZwZQB6TewhX1lJIIC3H93HmUzjg?e=rVELhG)
+## 📋 Features
+Search Weather by City: Enter any city to get real-time weather updates.
+Current Weather: Displays temperature, wind speed, humidity, and weather conditions.
+5-Day Forecast: Shows daily weather predictions with icons and temperature ranges.
+Responsive Design: Optimized for various screen sizes.
+Open Source: Fully accessible and modifiable code hosted on GitHub.
+## 🚀 Demo
+Check out the live demo: Meteo App on Netlify
+
+## 📂 Project Structure
 
 
-## Tech Stack
+├── index.html           # Main HTML file  
+├── style.css            # CSS for styling the app  
+├── script.js            # JavaScript for handling weather data and interactivity  
+├── README.md            # Project documentation  
+🛠️ Technologies Used
+HTML: Structuring the app
+CSS: Styling and layout
+JavaScript: Handling API requests and DOM manipulation
+Axios: For API calls
+SheCodes Weather API: Fetching weather data
+📦 Installation
+Clone the repository:
+bash
+Copy code
+git clone https://github.com/ashree2118/meteo2.git
+Navigate to the project folder:
+bash
+Copy code
+cd meteo2
+Open index.html in your browser.
+📋 Usage
+Enter the name of a city in the search bar.
+Click the Search button to retrieve the current weather and 5-day forecast.
+🌐 APIs Used
+SheCodes Weather API: Provides real-time weather data and forecasts.
 
-- HTML 
-- CSS
-- JavaScript
 
+5-Day Forecast
 
+## 🤝 Contributing
+Contributions are welcome! Feel free to open an issue or submit a pull request for improvements.
 
-## Installation
+## 📝 License
+This project is licensed under the MIT License.
 
-Install my-project with VScode
+## ✨ Acknowledgments
+Inspired by SheCodes weather app challenges.
+Icons and data courtesy of SheCodes Weather API.
 
 
     
